@@ -29,7 +29,7 @@ SO THAT our own site is optimized for search engines
 
 ## Depoly website for challenge 1
 ---
-[Horiseon website](https://RFox01.github.io/horiseon/)
+[Horiseon website][(https://rfox01.github.io/Horiseon/)]
 
 ## License
 ---
